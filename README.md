@@ -8,9 +8,9 @@ Welcome to my GitHub page! I'm a computer engineering student with a passion for
 - 🌟 Other experiences include being an assistant manager at Joe's BBQ Boat (yes, it's as awesome as it sounds), and holding a Pleasure Craft Operator Card (for all your boating needs!)
 
 ### What I'm Working On
-#### *Autonomous Submarine*
+#### *🌊Autonomous Submarine🌊*
 Currently, I am working with a team for developing an autonomous submarine that can navigate and perform tasks without human intervention. My current goal is to improve its object detection abilities, specifically to detect objects and draw a square shape around them. This involves working with sensors and developing algorithms to process and interpret the data received.
-#### *IntelliFeeder*
+#### *🐶IntelliFeeder🐱*
 I'm also working on a project called IntelliFeeder, which is a pet feeder that uses machine learning to differentiate between dogs and cats and provide the correct food. As it stands, the IntelliFeeder consists of a double-channelled chassis design, where each channel houses the pet food for the cat and the dog. The feeder will have a servo-controlled flap for precise food dispensing and will be controlled by a microcontroller. I'm developing a web app to interface with the IntelliFeeder, allowing users to view the food log and access the camera. The app will be built using ReactJS or VueJS and hosted on a web server (likely using Flask) to send/receive data to the IntelliFeeder. 
 
 ### My Goals🎯
