@@ -5,7 +5,7 @@ Welcome to my GitHub page! I'm a computer engineering student with a passion for
 + 🚀 Software Developer at Subbots, where I get to work on some pretty cool stuff like developing autonomous navigation and enhancing robotic movements.
 * 💻 Proficient in Java, C, C++, Python, and more. I love exploring new programming languages and technologies.
 + 🏆 Projects I've worked on include a Twitter Pheme Server, Dancing Robot, Autonomous Claw, Kamino Game, and a 16-bit RISC machine.
-- 🌟 Other experiences include being an assistant manager at Joe's BBQ Boat (yes, it's as awesome as it sounds), and holding a Pleasure Craft Operator Card (for all your boating needs!)
+
 
 ### What I'm Working On
 #### *🌊Autonomous Submarine🌊*
